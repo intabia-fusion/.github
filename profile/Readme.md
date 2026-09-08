@@ -21,7 +21,7 @@
 
 ## Репозитории
 
-| | |
+| Репозиторий | Описание |
 | --- | --- |
 | [platform](https://github.com/intabia-fusion/platform) | Монорепозиторий: платформа и все приложения |
 | [platform-docs](https://github.com/intabia-fusion/platform-docs) | Документация |
